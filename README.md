@@ -10,6 +10,7 @@ A repository for [Bartholdy et al. 2020](https://onlinelibrary.wiley.com/doi/epd
 - Abstract
 <!-- - Non-specialist summary -->
 <!-- - A reproducible .Rmd file of the publication and a rendered .pdf file -->
+<!-- - Binder environment -->
 
 ## How to cite
 
